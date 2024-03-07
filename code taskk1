@@ -1,0 +1,117 @@
+<mxfile host="app.diagrams.net" modified="2024-03-07T06:11:24.010Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="F8P8HHquXW60G_YyzYWD" version="24.0.2" type="device">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="965" dy="570" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="cja_fb-_8zyIxrz7VLwU-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="cja_fb-_8zyIxrz7VLwU-0" target="cja_fb-_8zyIxrz7VLwU-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cja_fb-_8zyIxrz7VLwU-0" value="start" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="60" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cja_fb-_8zyIxrz7VLwU-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="cja_fb-_8zyIxrz7VLwU-1" target="cja_fb-_8zyIxrz7VLwU-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cja_fb-_8zyIxrz7VLwU-1" value="int a= maaş dəyəri &amp;amp;&amp;amp;&lt;div&gt;b= kredit dəyəri&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="40" y="160" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="cja_fb-_8zyIxrz7VLwU-7" value="yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="cja_fb-_8zyIxrz7VLwU-4" target="cja_fb-_8zyIxrz7VLwU-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cja_fb-_8zyIxrz7VLwU-11" value="no" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="cja_fb-_8zyIxrz7VLwU-4" target="cja_fb-_8zyIxrz7VLwU-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cja_fb-_8zyIxrz7VLwU-4" value="0.6a&amp;gt;b" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="80" y="250" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cja_fb-_8zyIxrz7VLwU-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="cja_fb-_8zyIxrz7VLwU-6" target="cja_fb-_8zyIxrz7VLwU-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cja_fb-_8zyIxrz7VLwU-6" value="kredit götürə bilməzsiniz" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="230" y="250" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cja_fb-_8zyIxrz7VLwU-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="cja_fb-_8zyIxrz7VLwU-10" target="cja_fb-_8zyIxrz7VLwU-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cja_fb-_8zyIxrz7VLwU-10" value="kredit gotürə bilərsiniz" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="60" y="370" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cja_fb-_8zyIxrz7VLwU-12" value="end" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="280" y="370" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cja_fb-_8zyIxrz7VLwU-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="cja_fb-_8zyIxrz7VLwU-16" target="cja_fb-_8zyIxrz7VLwU-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cja_fb-_8zyIxrz7VLwU-16" value="start" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="70" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cja_fb-_8zyIxrz7VLwU-17" value="&#xa;&lt;ul style=&quot;-webkit-tap-highlight-color: transparent; list-style: disc; margin: 1em 0px; padding: 0px 0px 0px 40px; color: rgb(60, 64, 67); font-family: Roboto, Arial, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: 0.2px; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;li style=&quot;-webkit-tap-highlight-color: transparent;&quot;&gt;&lt;b style=&quot;-webkit-tap-highlight-color: transparent;&quot;&gt;1. maas ve kredit deyerleri daxil olur. Eger istifadecinin daxil etdiyi kredit deyeri, illik maasin 60%&#39;den azdirsa, ekrana &quot;Kredit goture bilmezsiniz!&quot;, eks halda &quot;Kredit goture bilersiniz!&quot; yazdirirsiniz.&lt;/b&gt;&lt;/li&gt;&lt;/ul&gt;&#xa;&#xa;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="440" y="20" width="340" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="cja_fb-_8zyIxrz7VLwU-19" value="&#xa;&lt;ul style=&quot;-webkit-tap-highlight-color: transparent; list-style: disc; margin: 1em 0px; padding: 0px 0px 0px 40px; color: rgb(60, 64, 67); font-family: Roboto, Arial, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: 0.2px; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;li style=&quot;-webkit-tap-highlight-color: transparent;&quot;&gt;&lt;b style=&quot;-webkit-tap-highlight-color: transparent;&quot;&gt;2. 2 reqemli bir eded daxil olunur, ededin onlugunun yoxsa, tekliyinin boyuk oldugunu ekrana yazdirirsiniz.&lt;/b&gt;&lt;/li&gt;&lt;/ul&gt;&#xa;&#xa;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="560" y="600" width="230" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="cja_fb-_8zyIxrz7VLwU-20" value="&#xa;&lt;ul style=&quot;-webkit-tap-highlight-color: transparent; list-style: disc; margin: 1em 0px; padding: 0px 0px 0px 40px; color: rgb(60, 64, 67); font-family: Roboto, Arial, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: 0.2px; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;li style=&quot;-webkit-tap-highlight-color: transparent;&quot;&gt;&lt;b style=&quot;-webkit-tap-highlight-color: transparent;&quot;&gt;3. duzbucaqlinin sahe ve perimetrini tapin.&lt;/b&gt;&lt;/li&gt;&lt;/ul&gt;&#xa;&#xa;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="510" y="1190" width="230" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="cja_fb-_8zyIxrz7VLwU-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="cja_fb-_8zyIxrz7VLwU-22" target="cja_fb-_8zyIxrz7VLwU-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cja_fb-_8zyIxrz7VLwU-22" value="int a, b, c" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="70" y="700" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cja_fb-_8zyIxrz7VLwU-28" value="no" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="cja_fb-_8zyIxrz7VLwU-25" target="cja_fb-_8zyIxrz7VLwU-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cja_fb-_8zyIxrz7VLwU-30" value="yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="cja_fb-_8zyIxrz7VLwU-25" target="cja_fb-_8zyIxrz7VLwU-29">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="190" y="840" />
+              <mxPoint x="190" y="840" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cja_fb-_8zyIxrz7VLwU-25" value="c==10a+b &amp;amp;&amp;amp;&lt;div&gt;10a&amp;gt;b&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="80" y="790" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="cja_fb-_8zyIxrz7VLwU-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="cja_fb-_8zyIxrz7VLwU-27" target="cja_fb-_8zyIxrz7VLwU-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cja_fb-_8zyIxrz7VLwU-27" value="c ədədinin təkliyi böyükdür" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="70" y="940" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cja_fb-_8zyIxrz7VLwU-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="cja_fb-_8zyIxrz7VLwU-29" target="cja_fb-_8zyIxrz7VLwU-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cja_fb-_8zyIxrz7VLwU-29" value="c ədədinin onluğu böyükdür" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="230" y="800" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cja_fb-_8zyIxrz7VLwU-31" value="end" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="290" y="940" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cja_fb-_8zyIxrz7VLwU-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="cja_fb-_8zyIxrz7VLwU-34" target="cja_fb-_8zyIxrz7VLwU-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cja_fb-_8zyIxrz7VLwU-34" value="start" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="110" y="1190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cja_fb-_8zyIxrz7VLwU-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="cja_fb-_8zyIxrz7VLwU-35" target="cja_fb-_8zyIxrz7VLwU-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cja_fb-_8zyIxrz7VLwU-35" value="S, P, a, b" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="110" y="1300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cja_fb-_8zyIxrz7VLwU-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="cja_fb-_8zyIxrz7VLwU-45" target="cja_fb-_8zyIxrz7VLwU-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cja_fb-_8zyIxrz7VLwU-45" value="S = a*b&lt;div&gt;P = 2*(a=b)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="110" y="1410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cja_fb-_8zyIxrz7VLwU-48" value="end" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="130" y="1520" width="80" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
